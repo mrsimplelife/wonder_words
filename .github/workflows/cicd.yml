@@ -11,36 +11,23 @@ on:
 permissions: read-all
 
 jobs:
-  # TODO: Remove the example job after testing
-  # 5
-  example:
-    name: Example of a job
-    # 6
+  test:
+    name: Test
     runs-on: ubuntu-latest
-    # 7
     steps:
-      # 8
-      - name: Echo text
-        run: echo This\ is\ my\ first\ Github\ actions\ job
-# jobs:
-#   test:
-#     name: Test
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Clone Flutter repository with master channel
-#         uses: subosito/flutter-action@v2
-#         with:
-#           channel: master
+      - name: Clone Flutter repository with master channel
+        uses: subosito/flutter-action@v2
+        with:
+          channel: master
 
-#       - name: Run flutter doctor
-#         run: flutter doctor -v
+      - name: Run flutter doctor
+        run: flutter doctor -v
 
-#       - name: Checkout code
-#         uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-#       - name: Get all packages and test
-#         run: make get && make testing
-
+      - name: Get all packages and test
+        run: make get && make testing
 #   android:
 #     name: Build Android
 #     runs-on: ubuntu-latest
