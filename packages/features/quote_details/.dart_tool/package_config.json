@@ -129,9 +129,9 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/file-6.1.4",
+      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/file-7.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter",
@@ -147,9 +147,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4",
+      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter_localizations",
@@ -237,9 +237,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/lints-1.0.1",
+      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "logging",
@@ -273,7 +273,7 @@
     },
     {
       "name": "mocktail",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/mocktail-0.1.4",
+      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/mocktail-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -393,39 +393,15 @@
     },
     {
       "name": "share_plus",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/share_plus-4.5.3",
+      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/share_plus-7.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "share_plus_linux",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/share_plus_linux-3.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "share_plus_macos",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/share_plus_macos-3.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "share_plus_platform_interface",
       "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/share_plus_platform_interface-3.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
-    },
-    {
-      "name": "share_plus_web",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/share_plus_web-3.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "share_plus_windows",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/share_plus_windows-3.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "shelf",
@@ -530,32 +506,8 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "url_launcher",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/url_launcher-6.1.14",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "url_launcher_android",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/url_launcher_android-6.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
-      "name": "url_launcher_ios",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "url_launcher_linux",
       "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
-      "name": "url_launcher_macos",
-      "rootUri": "file:///Users/youme/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.7",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -650,7 +602,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-10-16T20:49:23.740152Z",
+  "generated": "2023-10-16T21:09:47.746944Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }

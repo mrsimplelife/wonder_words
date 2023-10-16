@@ -2,13 +2,13 @@
 FLUTTER_ROOT=/Users/youme/flutter
 FLUTTER_APPLICATION_PATH=/Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=/var/folders/f7/pqpp0mt91m5bg3fm1jl46zj00000gn/T/flutter_tools.r0NRP7/flutter_test_listener.nBNicM/listener.dart
+FLUTTER_TARGET=/Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
 EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
 EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
-DART_DEFINES=ZmF2LXFzLWFwcC10b2tlbj1hODJhZjA1NzY3NDUyMjIyN2VjZDViMGZiZjBlMzZiNA==,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,SU5URUdSQVRJT05fVEVTVF9TSE9VTERfUkVQT1JUX1JFU1VMVFNfVE9fTkFUSVZFPWZhbHNl
+DART_DEFINES=ZmF2LXFzLWFwcC10b2tlbj1hODJhZjA1NzY3NDUyMjIyN2VjZDViMGZiZjBlMzZiNA==,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9iZDk4NmM1ZWQyMGE2MmRjMzRiNzcxOGM1MGFiYzc4MmJlYWU0YzMzLw==
 DART_OBFUSCATION=false
 TRACK_WIDGET_CREATION=true
 TREE_SHAKE_ICONS=false
