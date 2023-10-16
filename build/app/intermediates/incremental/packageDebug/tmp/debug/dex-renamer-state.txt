@@ -1,4 +1,4 @@
-#Tue Oct 10 16:56:40 KST 2023
+#Tue Oct 17 06:16:19 KST 2023
 base.0=/Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.2=/Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
