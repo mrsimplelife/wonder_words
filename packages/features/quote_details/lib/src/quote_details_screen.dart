@@ -87,6 +87,7 @@ class QuoteDetailsView extends StatelessWidget {
                   : null,
               body: SafeArea(
                 child: Padding(
+                  padding: EdgeInsets.all(WonderTheme.of(context).screenMargin),
                   child: state is QuoteDetailsSuccess
                       ? _Quote(quote: state.quote)
                       : state is QuoteDetailsFailure
@@ -97,7 +98,6 @@ class QuoteDetailsView extends StatelessWidget {
                               },
                             )
                           : const CenteredCircularProgressIndicator(),
-                  padding: EdgeInsets.all(WonderTheme.of(context).screenMargin),
                 ),
               ),
             ),
