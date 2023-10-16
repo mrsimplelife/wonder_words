@@ -49,7 +49,7 @@ class SignInView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('rendering SignInView');
+    // print('rendering SignInView');
     final l10n = SignInLocalizations.of(context);
     return GestureDetector(
       onTap: () => _releaseFocus(context),
@@ -99,7 +99,7 @@ class _SignInFormState extends State<_SignInForm> {
 
   @override
   Widget build(BuildContext context) {
-    print('rendering _SignInForm');
+    // print('rendering _SignInForm');
     final l10n = SignInLocalizations.of(context);
     return BlocConsumer<SignInCubit, SignInState>(
       listenWhen: (oldState, newState) {

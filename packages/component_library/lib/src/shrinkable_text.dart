@@ -15,7 +15,7 @@ class ShrinkableText extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('rendering ShrinkableText');
+    // print('rendering ShrinkableText');
     return AutoSizeText(data, style: style, textAlign: textAlign);
   }
 }

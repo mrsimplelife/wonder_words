@@ -8,7 +8,7 @@ class DarkModePreferencePicker extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('rendering DarkModePreferencePicker');
+    // print('rendering DarkModePreferencePicker');
     final l10n = ProfileMenuLocalizations.of(context);
     final bloc = context.read<ProfileMenuBloc>();
     return Column(

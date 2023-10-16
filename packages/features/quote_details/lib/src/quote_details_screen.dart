@@ -70,7 +70,7 @@ class QuoteDetailsView extends StatelessWidget {
           }
         },
         builder: (context, state) {
-          print('rendering QuoteDetailsView');
+          // print('rendering QuoteDetailsView');
           return WillPopScope(
             onWillPop: () async {
               final displayedQuote =
@@ -121,7 +121,7 @@ class _QuoteActionsAppBar extends StatelessWidget
 
   @override
   Widget build(BuildContext context) {
-    print('rendering _QuoteActionsAppBar');
+    // print('rendering _QuoteActionsAppBar');
     final cubit = context.read<QuoteDetailsCubit>();
     final shareableLinkGenerator = this.shareableLinkGenerator;
     return RowAppBar(children: [
@@ -181,7 +181,7 @@ class _Quote extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('rendering _Quote');
+    // print('rendering _Quote');
     final theme = WonderTheme.of(context);
     return Column(crossAxisAlignment: CrossAxisAlignment.end, children: [
       const Align(

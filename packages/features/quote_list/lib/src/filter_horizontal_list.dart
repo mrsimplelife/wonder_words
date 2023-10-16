@@ -12,7 +12,7 @@ class FilterHorizontalList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('rendering FilterHorizontalList');
+    // print('rendering FilterHorizontalList');
     return SingleChildScrollView(
       scrollDirection: Axis.horizontal,
       padding: const EdgeInsets.symmetric(vertical: Spacing.mediumLarge),

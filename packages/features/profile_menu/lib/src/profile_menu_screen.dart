@@ -62,7 +62,7 @@ class ProfileMenuView extends StatelessWidget {
         body: SafeArea(
           child: BlocBuilder<ProfileMenuBloc, ProfileMenuState>(
             builder: (context, state) {
-              print('rendering ProfileMenuView');
+              // print('rendering ProfileMenuView');
               if (state is ProfileMenuLoaded) {
                 final username = state.username;
                 return Column(
@@ -126,7 +126,7 @@ class _SignInButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('rendering _SignInButton');
+    // print('rendering _SignInButton');
     final theme = WonderTheme.of(context);
     final l10n = ProfileMenuLocalizations.of(context);
     return Padding(
