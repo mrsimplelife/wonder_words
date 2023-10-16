@@ -1,0 +1,700 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:integration_test] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:7:1-12:12
+MERGED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/flutter_secure_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/youme/.gradle/caches/transforms-3/ab0abcfba0b6407303431d947334663d/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/8be85f61ffbedc90efed50878d82d4cb/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/youme/.gradle/caches/transforms-3/e1ad5cd82c45f5a4569ac3181a198637/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/youme/.gradle/caches/transforms-3/31c02b71f42cf377be5bd2078e440325/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:15:1-32:12
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /Users/youme/.gradle/caches/transforms-3/7a35ca10afe1612196e269d58c55e77a/transformed/jetified-firebase-analytics-21.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youme/.gradle/caches/transforms-3/c3e95aa6c3b2cf8ee0f4fa334f07135b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.test:rules:1.2.0] /Users/youme/.gradle/caches/transforms-3/0584906eba83b9a231d23a8b76893310/transformed/rules-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/youme/.gradle/caches/transforms-3/4612e07d2dcf622752a233cacf3696c9/transformed/espresso-core-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /Users/youme/.gradle/caches/transforms-3/f4880cf10ef3ec392bba0154d2c3fecf/transformed/runner-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.6.0] /Users/youme/.gradle/caches/transforms-3/709122b7c8c2a603e7f194bb321b26c3/transformed/browser-1.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /Users/youme/.gradle/caches/transforms-3/ecaedc2808ee17902de0968cdfdad152/transformed/jetified-play-services-measurement-sdk-21.3.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youme/.gradle/caches/transforms-3/49b72aec85e4b260d78f987f48681cdb/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/youme/.gradle/caches/transforms-3/1206a57ec9e821aef31f281bfb4749c5/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/youme/.gradle/caches/transforms-3/8e0cae574a38747a818c041db74e9ffc/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/youme/.gradle/caches/transforms-3/0aaee59e3bd47a31d935984efd7f2166/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /Users/youme/.gradle/caches/transforms-3/c430b4c8b2b1e97809cd75814c80ddeb/transformed/jetified-play-services-measurement-base-21.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/youme/.gradle/caches/transforms-3/a77da48c42ffdd3a4c1dcad748a2261c/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/youme/.gradle/caches/transforms-3/a8ffffdbbc2cc90666854c01bb9c49ca/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/youme/.gradle/caches/transforms-3/bee5b1273f648f0642f12b3ab733f16b/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/youme/.gradle/caches/transforms-3/80aa2863c9edd1fc2ec6b85af3b1ea54/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/youme/.gradle/caches/transforms-3/e06328f301f076303d04cf5873c75ff5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/youme/.gradle/caches/transforms-3/9d0e1eb3d881892f5b09158c4c8fbce2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/youme/.gradle/caches/transforms-3/dd833b2252eafb86b328387d04470526/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/youme/.gradle/caches/transforms-3/db3deaaeb048afb2eaf200feda3e75f6/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/youme/.gradle/caches/transforms-3/6ffcafc4f0fbcd687855ed0ae21c3163/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.2.0] /Users/youme/.gradle/caches/transforms-3/b842ba65968b3c79ba257b91d08d023c/transformed/monitor-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/youme/.gradle/caches/transforms-3/31f0a35538fe7e65b9e52a4e7542182e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/youme/.gradle/caches/transforms-3/17ddb0dea571a9e110c0b1b75e78ffac/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youme/.gradle/caches/transforms-3/1373384e908310a0e54b70cc412b7ee2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/youme/.gradle/caches/transforms-3/e6bc44b6f7f5ed2ed45c7e7698f65d7c/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/youme/.gradle/caches/transforms-3/eb53d49a05689eefcc64b184bc0e2272/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/youme/.gradle/caches/transforms-3/d2aab42b298b7909761a605a4dd631d9/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/youme/.gradle/caches/transforms-3/80f72dcf1e8e746d572e2b27f916c6e5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/youme/.gradle/caches/transforms-3/9fa386edc20ca40ffe067749484aaf9e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/youme/.gradle/caches/transforms-3/71e4250b304f5bdf2ab0e9e37d4d3b55/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/youme/.gradle/caches/transforms-3/16c4c8a2e7024de9d7e913c43084451a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/youme/.gradle/caches/transforms-3/6b2927e94d029a9a8405e9f51d36f224/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/youme/.gradle/caches/transforms-3/a0ce22d23dba18c09d90bfd9d30775a6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/youme/.gradle/caches/transforms-3/d0c1a1e567a3fbf1dc9182ffafe64085/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/youme/.gradle/caches/transforms-3/cb5ac9eb9da201cedd8bb8ac5a7adc6f/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/youme/.gradle/caches/transforms-3/47b98a056b0a29a1100f4bc5dc2bf977/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:70-110
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:3:3-64
+MERGED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:3:3-64
+MERGED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:3:3-64
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:3:20-62
+application
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:5:3-26:17
+MERGED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:10:5-18:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /Users/youme/.gradle/caches/transforms-3/7a35ca10afe1612196e269d58c55e77a/transformed/jetified-firebase-analytics-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /Users/youme/.gradle/caches/transforms-3/7a35ca10afe1612196e269d58c55e77a/transformed/jetified-firebase-analytics-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youme/.gradle/caches/transforms-3/c3e95aa6c3b2cf8ee0f4fa334f07135b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youme/.gradle/caches/transforms-3/c3e95aa6c3b2cf8ee0f4fa334f07135b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /Users/youme/.gradle/caches/transforms-3/ecaedc2808ee17902de0968cdfdad152/transformed/jetified-play-services-measurement-sdk-21.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /Users/youme/.gradle/caches/transforms-3/ecaedc2808ee17902de0968cdfdad152/transformed/jetified-play-services-measurement-sdk-21.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youme/.gradle/caches/transforms-3/49b72aec85e4b260d78f987f48681cdb/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youme/.gradle/caches/transforms-3/49b72aec85e4b260d78f987f48681cdb/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/youme/.gradle/caches/transforms-3/8e0cae574a38747a818c041db74e9ffc/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/youme/.gradle/caches/transforms-3/8e0cae574a38747a818c041db74e9ffc/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/youme/.gradle/caches/transforms-3/0aaee59e3bd47a31d935984efd7f2166/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/youme/.gradle/caches/transforms-3/0aaee59e3bd47a31d935984efd7f2166/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /Users/youme/.gradle/caches/transforms-3/c430b4c8b2b1e97809cd75814c80ddeb/transformed/jetified-play-services-measurement-base-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /Users/youme/.gradle/caches/transforms-3/c430b4c8b2b1e97809cd75814c80ddeb/transformed/jetified-play-services-measurement-base-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/youme/.gradle/caches/transforms-3/a77da48c42ffdd3a4c1dcad748a2261c/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/youme/.gradle/caches/transforms-3/a77da48c42ffdd3a4c1dcad748a2261c/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youme/.gradle/caches/transforms-3/1373384e908310a0e54b70cc412b7ee2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youme/.gradle/caches/transforms-3/1373384e908310a0e54b70cc412b7ee2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:5:49-85
+activity#com.raywenderlich.wonder_words.MainActivity
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:5-22:16
+	android:launchMode
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:44-74
+	android:hardwareAccelerated
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:261-295
+	android:windowSoftInputMode
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:332-374
+	android:exported
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:375-398
+	android:configChanges
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:110-260
+	android:theme
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:75-109
+	android:usesCleartextTraffic
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:296-331
+	android:name
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:6:15-43
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:11:7-114
+	android:resource
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:11:74-111
+	android:name
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:11:18-73
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:17:7-132
+	android:resource
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:17:83-129
+	android:name
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:17:18-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:18:7-21:23
+action#android.intent.action.MAIN
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:19:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:20:9-68
+	android:name
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:20:19-66
+meta-data#flutterEmbedding
+ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:25:5-68
+	android:value
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:25:48-65
+	android:name
+		ADDED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml:25:16-47
+uses-sdk
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:integration_test] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-44
+MERGED from [:integration_test] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-44
+MERGED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/flutter_secure_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/flutter_secure_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/youme/.gradle/caches/transforms-3/ab0abcfba0b6407303431d947334663d/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/youme/.gradle/caches/transforms-3/ab0abcfba0b6407303431d947334663d/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/8be85f61ffbedc90efed50878d82d4cb/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/8be85f61ffbedc90efed50878d82d4cb/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/youme/.gradle/caches/transforms-3/e1ad5cd82c45f5a4569ac3181a198637/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/youme/.gradle/caches/transforms-3/e1ad5cd82c45f5a4569ac3181a198637/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/youme/.gradle/caches/transforms-3/31c02b71f42cf377be5bd2078e440325/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/youme/.gradle/caches/transforms-3/31c02b71f42cf377be5bd2078e440325/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /Users/youme/.gradle/caches/transforms-3/7a35ca10afe1612196e269d58c55e77a/transformed/jetified-firebase-analytics-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /Users/youme/.gradle/caches/transforms-3/7a35ca10afe1612196e269d58c55e77a/transformed/jetified-firebase-analytics-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youme/.gradle/caches/transforms-3/c3e95aa6c3b2cf8ee0f4fa334f07135b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youme/.gradle/caches/transforms-3/c3e95aa6c3b2cf8ee0f4fa334f07135b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.test:rules:1.2.0] /Users/youme/.gradle/caches/transforms-3/0584906eba83b9a231d23a8b76893310/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /Users/youme/.gradle/caches/transforms-3/0584906eba83b9a231d23a8b76893310/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/youme/.gradle/caches/transforms-3/4612e07d2dcf622752a233cacf3696c9/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/youme/.gradle/caches/transforms-3/4612e07d2dcf622752a233cacf3696c9/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/youme/.gradle/caches/transforms-3/f4880cf10ef3ec392bba0154d2c3fecf/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/youme/.gradle/caches/transforms-3/f4880cf10ef3ec392bba0154d2c3fecf/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.6.0] /Users/youme/.gradle/caches/transforms-3/709122b7c8c2a603e7f194bb321b26c3/transformed/browser-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.6.0] /Users/youme/.gradle/caches/transforms-3/709122b7c8c2a603e7f194bb321b26c3/transformed/browser-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /Users/youme/.gradle/caches/transforms-3/ecaedc2808ee17902de0968cdfdad152/transformed/jetified-play-services-measurement-sdk-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /Users/youme/.gradle/caches/transforms-3/ecaedc2808ee17902de0968cdfdad152/transformed/jetified-play-services-measurement-sdk-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youme/.gradle/caches/transforms-3/49b72aec85e4b260d78f987f48681cdb/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youme/.gradle/caches/transforms-3/49b72aec85e4b260d78f987f48681cdb/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/youme/.gradle/caches/transforms-3/1206a57ec9e821aef31f281bfb4749c5/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/youme/.gradle/caches/transforms-3/1206a57ec9e821aef31f281bfb4749c5/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/youme/.gradle/caches/transforms-3/8e0cae574a38747a818c041db74e9ffc/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/youme/.gradle/caches/transforms-3/8e0cae574a38747a818c041db74e9ffc/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/youme/.gradle/caches/transforms-3/0aaee59e3bd47a31d935984efd7f2166/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/youme/.gradle/caches/transforms-3/0aaee59e3bd47a31d935984efd7f2166/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /Users/youme/.gradle/caches/transforms-3/c430b4c8b2b1e97809cd75814c80ddeb/transformed/jetified-play-services-measurement-base-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /Users/youme/.gradle/caches/transforms-3/c430b4c8b2b1e97809cd75814c80ddeb/transformed/jetified-play-services-measurement-base-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/youme/.gradle/caches/transforms-3/a77da48c42ffdd3a4c1dcad748a2261c/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/youme/.gradle/caches/transforms-3/a77da48c42ffdd3a4c1dcad748a2261c/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/youme/.gradle/caches/transforms-3/a8ffffdbbc2cc90666854c01bb9c49ca/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/youme/.gradle/caches/transforms-3/a8ffffdbbc2cc90666854c01bb9c49ca/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/youme/.gradle/caches/transforms-3/bee5b1273f648f0642f12b3ab733f16b/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/youme/.gradle/caches/transforms-3/bee5b1273f648f0642f12b3ab733f16b/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/youme/.gradle/caches/transforms-3/80aa2863c9edd1fc2ec6b85af3b1ea54/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/youme/.gradle/caches/transforms-3/80aa2863c9edd1fc2ec6b85af3b1ea54/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/youme/.gradle/caches/transforms-3/e06328f301f076303d04cf5873c75ff5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/youme/.gradle/caches/transforms-3/e06328f301f076303d04cf5873c75ff5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/youme/.gradle/caches/transforms-3/9d0e1eb3d881892f5b09158c4c8fbce2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/youme/.gradle/caches/transforms-3/9d0e1eb3d881892f5b09158c4c8fbce2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/youme/.gradle/caches/transforms-3/dd833b2252eafb86b328387d04470526/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/youme/.gradle/caches/transforms-3/dd833b2252eafb86b328387d04470526/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/youme/.gradle/caches/transforms-3/db3deaaeb048afb2eaf200feda3e75f6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/youme/.gradle/caches/transforms-3/db3deaaeb048afb2eaf200feda3e75f6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/youme/.gradle/caches/transforms-3/6ffcafc4f0fbcd687855ed0ae21c3163/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/youme/.gradle/caches/transforms-3/6ffcafc4f0fbcd687855ed0ae21c3163/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/youme/.gradle/caches/transforms-3/b842ba65968b3c79ba257b91d08d023c/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/youme/.gradle/caches/transforms-3/b842ba65968b3c79ba257b91d08d023c/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/youme/.gradle/caches/transforms-3/31f0a35538fe7e65b9e52a4e7542182e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/youme/.gradle/caches/transforms-3/31f0a35538fe7e65b9e52a4e7542182e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/youme/.gradle/caches/transforms-3/17ddb0dea571a9e110c0b1b75e78ffac/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/youme/.gradle/caches/transforms-3/17ddb0dea571a9e110c0b1b75e78ffac/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youme/.gradle/caches/transforms-3/1373384e908310a0e54b70cc412b7ee2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youme/.gradle/caches/transforms-3/1373384e908310a0e54b70cc412b7ee2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/youme/.gradle/caches/transforms-3/e6bc44b6f7f5ed2ed45c7e7698f65d7c/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/youme/.gradle/caches/transforms-3/e6bc44b6f7f5ed2ed45c7e7698f65d7c/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/youme/.gradle/caches/transforms-3/eb53d49a05689eefcc64b184bc0e2272/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/youme/.gradle/caches/transforms-3/eb53d49a05689eefcc64b184bc0e2272/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/youme/.gradle/caches/transforms-3/d2aab42b298b7909761a605a4dd631d9/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/youme/.gradle/caches/transforms-3/d2aab42b298b7909761a605a4dd631d9/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/youme/.gradle/caches/transforms-3/80f72dcf1e8e746d572e2b27f916c6e5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/youme/.gradle/caches/transforms-3/80f72dcf1e8e746d572e2b27f916c6e5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/youme/.gradle/caches/transforms-3/9fa386edc20ca40ffe067749484aaf9e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/youme/.gradle/caches/transforms-3/9fa386edc20ca40ffe067749484aaf9e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/youme/.gradle/caches/transforms-3/71e4250b304f5bdf2ab0e9e37d4d3b55/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/youme/.gradle/caches/transforms-3/71e4250b304f5bdf2ab0e9e37d4d3b55/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/youme/.gradle/caches/transforms-3/16c4c8a2e7024de9d7e913c43084451a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/youme/.gradle/caches/transforms-3/16c4c8a2e7024de9d7e913c43084451a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/youme/.gradle/caches/transforms-3/6b2927e94d029a9a8405e9f51d36f224/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/youme/.gradle/caches/transforms-3/6b2927e94d029a9a8405e9f51d36f224/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/youme/.gradle/caches/transforms-3/a0ce22d23dba18c09d90bfd9d30775a6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/youme/.gradle/caches/transforms-3/a0ce22d23dba18c09d90bfd9d30775a6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/youme/.gradle/caches/transforms-3/d0c1a1e567a3fbf1dc9182ffafe64085/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/youme/.gradle/caches/transforms-3/d0c1a1e567a3fbf1dc9182ffafe64085/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/youme/.gradle/caches/transforms-3/cb5ac9eb9da201cedd8bb8ac5a7adc6f/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/youme/.gradle/caches/transforms-3/cb5ac9eb9da201cedd8bb8ac5a7adc6f/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/youme/.gradle/caches/transforms-3/47b98a056b0a29a1100f4bc5dc2bf977/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/youme/.gradle/caches/transforms-3/47b98a056b0a29a1100f4bc5dc2bf977/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/android/app/src/debug/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:23:9-29:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:23:9-29:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:11:9-15:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:11:9-15:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:14:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_crashlytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-130
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-65
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [:firebase_analytics] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:14:17-128
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firebaseremoteconfig.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_remote_config] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-139
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.dynamiclinks.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_dynamic_links] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_dynamic_links/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-131
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-15:68
+	android:resource
+		ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-65
+	android:name
+		ADDED from [:share_plus] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:14:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-74
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.4.3] /Users/youme/.gradle/caches/transforms-3/6ef84375faac70fdbae6a1db2bc8eb02/transformed/jetified-firebase-crashlytics-18.4.3/AndroidManifest.xml:16:17-115
+meta-data#com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar
+ADDED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-sessions:1.0.2] /Users/youme/.gradle/caches/transforms-3/b2cf6df46f23e76665dac9b7e91b1b2b/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml:26:17-117
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.8] /Users/youme/.gradle/caches/transforms-3/80b5d859bcbacb114bfe3e02ecf55d79/transformed/jetified-firebase-datatransport-18.1.8/AndroidManifest.xml:28:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/youme/.gradle/caches/transforms-3/774cde73377a29ab464e8a08905b7d15/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:32:17-94
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /Users/youme/.gradle/caches/transforms-3/c817abb61e3ccbf0deb3bc9acae498d1/transformed/jetified-firebase-common-ktx-20.3.3/AndroidManifest.xml:15:17-113
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/youme/.gradle/caches/transforms-3/fa84fd205950750aa8cd780b1899f77f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:21.4.1] /Users/youme/.gradle/caches/transforms-3/ad4f82ce5a5c9132b3bbeca2614bdc7d/transformed/jetified-firebase-config-21.4.1/AndroidManifest.xml:32:17-117
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/youme/.gradle/caches/transforms-3/417df4ca35cc0c6ef6350ae2f3304dcc/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:27:17-133
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/youme/.gradle/caches/transforms-3/0aaee59e3bd47a31d935984efd7f2166/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/youme/.gradle/caches/transforms-3/0aaee59e3bd47a31d935984efd7f2166/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/7b0b909fd66bdfdb4507a8c45a29fef9/transformed/jetified-play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /Users/youme/.gradle/caches/transforms-3/720ba75eb528550c7e18178330f8f3b3/transformed/jetified-play-services-measurement-api-21.3.0/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:21.1.1] /Users/youme/.gradle/caches/transforms-3/1ad1da5b410d6e9160eb92ff3db2cf6a/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:13:17-109
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] /Users/youme/.gradle/caches/transforms-3/26cfe06351ba9fbd83a92b556750fa70/transformed/jetified-firebase-installations-17.1.4/AndroidManifest.xml:16:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /Users/youme/.gradle/caches/transforms-3/053c4b6a5ed578ad802f698293ac0bb3/transformed/jetified-firebase-common-20.3.3/AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/youme/.gradle/caches/transforms-3/b453da7da88657b9ac3d6440ee16ecd8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /Users/youme/.gradle/caches/transforms-3/4a0d061d4edac2fd246d4da3343920aa/transformed/jetified-play-services-measurement-impl-21.3.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /Users/youme/.gradle/caches/transforms-3/e820a2b64fe00e20b954ba4ec1e7aafe/transformed/jetified-play-services-measurement-21.3.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/youme/.gradle/caches/transforms-3/25b48bd457018f209aa3c7c12deddf96/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.raywenderlich.wonder_words.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.raywenderlich.wonder_words.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/youme/.gradle/caches/transforms-3/1ba0f54528dee4461d519f2b1f5e1440/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/youme/.gradle/caches/transforms-3/491f187665b581dc6e1e7e02d24e98e6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:33:13-132

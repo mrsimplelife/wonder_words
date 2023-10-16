@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.raywenderlich.wonder_words.app-merged_res-21:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.raywenderlich.wonder_words.app-main-13:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.raywenderlich.wonder_words.app-merged_res-21:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.raywenderlich.wonder_words.app-main-13:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.raywenderlich.wonder_words.app-merged_res-21:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.raywenderlich.wonder_words.app-main-13:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.raywenderlich.wonder_words.app-merged_res-21:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.raywenderlich.wonder_words.app-main-13:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.raywenderlich.wonder_words.app-merged_res-21:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.raywenderlich.wonder_words.app-main-13:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.raywenderlich.wonder_words.app-merged_res-21:/drawable-v21_launch_background.xml.flat",
+        "source": "com.raywenderlich.wonder_words.app-main-13:/drawable-v21/launch_background.xml"
+    }
+]

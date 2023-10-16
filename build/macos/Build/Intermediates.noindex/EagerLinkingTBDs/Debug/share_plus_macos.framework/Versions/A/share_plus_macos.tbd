@@ -1,0 +1,92 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s16share_plus_macos20SharePlusMacosPluginC20sharingServicePicker_11delegateForSo09NSSharingI8Delegate_pSgSo0miJ0C_So0mI0CtF",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateCACycfC",
+            "_$s16share_plus_macos20SharePlusMacosPluginC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvpfi",
+            "_$s16share_plus_macos20SharePlusMacosPluginC8register4withySo07FlutterG9Registrar_p_tFZ",
+            "_$s16share_plus_macos20SharePlusMacosPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s16share_plus_macos20SharePlusMacosPluginC9registrar33_DE6545D3116D6558A065D2D83F88C095LLSo07FlutterG9Registrar_pvs",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC4keepACXDyF",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateCN",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC8callback33_DE6545D3116D6558A065D2D83F88C095LLyyypSgcvs",
+            "_$s16share_plus_macos20SharePlusMacosPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC20sharingServicePicker_11delegateForSo09NSSharingjH0_pSgSo0njK0C_So0nJ0CtF",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC20sharingServicePicker_11delegateForSo09NSSharingjH0_pSgSo0njK0C_So0nJ0CtFTq",
+            "_$s16share_plus_macos20SharePlusMacosPluginCfD",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateCMa",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateCMn",
+            "_$s16share_plus_macos20SharePlusMacosPluginC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvM",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC20sharingServicePicker_9didChooseySo09NSSharingjK0C_So0nJ0CSgtFTq",
+            "_$s16share_plus_macos20SharePlusMacosPluginCACycfC",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC20sharingServicePicker_9didChooseySo09NSSharingjK0C_So0nJ0CSgtF",
+            "_share_plus_macosVersionString",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC8keepSelf33_DE6545D3116D6558A065D2D83F88C095LLyycSgvs",
+            "_share_plus_macosVersionNumber",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvs",
+            "_$s16share_plus_macos20SharePlusMacosPluginC9registrarACSo07FlutterG9Registrar_p_tcfc",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC7subject8callbackACSSSg_yypSgctcfc",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC8callback33_DE6545D3116D6558A065D2D83F88C095LLyyypSgcvM",
+            "_$s16share_plus_macos20SharePlusMacosPluginC20sharingServicePicker_11delegateForSo09NSSharingI8Delegate_pSgSo0miJ0C_So0mI0CtFTq",
+            "_$s16share_plus_macos20SharePlusMacosPluginC9registrarACSo07FlutterG9Registrar_p_tcfCTq",
+            "_$s16share_plus_macos20SharePlusMacosPluginCN",
+            "_$s16share_plus_macos20SharePlusMacosPluginC9registrarACSo07FlutterG9Registrar_p_tcfC",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateCfD",
+            "_$s16share_plus_macos20SharePlusMacosPluginC9registrar33_DE6545D3116D6558A065D2D83F88C095LLSo07FlutterG9Registrar_pvg",
+            "_$s16share_plus_macos20SharePlusMacosPluginC0A5Items33_DE6545D3116D6558A065D2D83F88C095LL_7subject6origin4view8callbackySayypG_SSSgSo6CGRectVSo6NSViewCyypSgcSgtF",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC8keepSelf33_DE6545D3116D6558A065D2D83F88C095LLyycSgvg",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvpfi",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC8keepSelf33_DE6545D3116D6558A065D2D83F88C095LLyycSgvM",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC8keepSelf33_DE6545D3116D6558A065D2D83F88C095LLyycSgvpfi",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC7subject8callbackACSSSg_yypSgctcfCTq",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateCACycfc",
+            "_$s16share_plus_macos20SharePlusMacosPluginCMn",
+            "_$s16share_plus_macos20SharePlusMacosPluginC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvs",
+            "_$s16share_plus_macos20SharePlusMacosPluginCACycfc",
+            "_$s16share_plus_macos20SharePlusMacosPluginC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvg",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvg",
+            "_$s16share_plus_macos20SharePlusMacosPluginC10originRect33_DE6545D3116D6558A065D2D83F88C095LLySo6CGRectVSDySSypGF",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC4keepACXDyFTq",
+            "_$s16share_plus_macos20SharePlusMacosPluginCMa",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC7subject8callbackACSSSg_yypSgctcfC",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC8callback33_DE6545D3116D6558A065D2D83F88C095LLyyypSgcvg",
+            "_$s16share_plus_macos20SharePlusMacosPluginC9registrar33_DE6545D3116D6558A065D2D83F88C095LLSo07FlutterG9Registrar_pvM",
+            "_$s16share_plus_macos29SharePlusMacosSuccessDelegateC7subject33_DE6545D3116D6558A065D2D83F88C095LLSSSgvM"
+          ],
+          "objc_class": [
+            "PodsDummy_share_plus_macos",
+            "_TtC16share_plus_macos20SharePlusMacosPlugin",
+            "_TtC16share_plus_macos29SharePlusMacosSuccessDelegate"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/share_plus_macos.framework/Versions/A/share_plus_macos"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-macos"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

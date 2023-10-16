@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSException.mm \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSException.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRExceptionModel_Private.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRExceptionModel.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRStackFrame.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRStackFrame_Private.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSApplication.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSContext.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSBinaryImage.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Shared/FIRCLSMachO/FIRCLSMachO.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSHost.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSUserLogging.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSAllocate.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSInternalLogging.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSLogger.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSGlobals.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSProcess.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSHandler.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSUtility.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSReportManager_Private.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSReportManager.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlytics.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlyticsReport.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSProfiling.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSReportUploader.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSLaunchMarkerModel.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSFileManager.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSExecutionIdentifierModel.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSInternalReport.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Operations/Symbolication/FIRCLSDemangleOperation.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Operations/Symbolication/FIRCLSThreadArrayOperation.h

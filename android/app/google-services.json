@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156777556781",
+    "project_id": "wonder-words-3fada",
+    "storage_bucket": "wonder-words-3fada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156777556781:android:ab6c569d7d45b3da14c1a4",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.wonder_words"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9A-vQsMNqm3n4jL95_yNdGxGsd6G9q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

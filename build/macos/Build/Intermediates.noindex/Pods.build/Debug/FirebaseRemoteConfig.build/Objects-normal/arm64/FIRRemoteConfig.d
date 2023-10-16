@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseRemoteConfig.build/module.modulemap \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/FIRRemoteConfig.m \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/Public/FirebaseRemoteConfig/FIRRemoteConfig.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseABTesting/Sources/Private/FirebaseABTestingInternal.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseABTesting.build/module.modulemap \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/Target\ Support\ Files/FirebaseABTesting/FirebaseABTesting-umbrella.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseABTesting/FirebaseABTesting/Sources/Public/FirebaseABTesting/FirebaseABTesting.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseABTesting/FirebaseABTesting/Sources/Public/FirebaseABTesting/FIRExperimentController.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseABTesting/FirebaseABTesting/Sources/Public/FirebaseABTesting/FIRLifecycleEvents.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseABTesting/Sources/Private/ABTExperimentPayload.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRComponent.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRDependency.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRLogger.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/FIRRemoteConfigComponent.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/Private/FIRRemoteConfig_Private.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/Private/RCNConfigSettings.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/Private/RCNConfigFetch.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/Interop/Analytics/Public/FIRAnalyticsInterop.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigConstants.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigContent.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigDBManager.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigExperiment.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigRealtime.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigValue_Internal.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNDevice.h \
+  /Users/youme/Desktop/youme/flutter/kodeco/rwf-materials/01-setting-up-your-environment/projects/starter/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNPersonalization.h
