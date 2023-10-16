@@ -43,10 +43,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Set up JDK 1.8
+      - name: Set up JDK 11
         uses: actions/setup-java@v1
         with:
-          java-version: 1.8
+          java-version: 11
 
       - name: Clean, get and lint
         run: make clean && make get
@@ -55,10 +55,10 @@ jobs:
       - name: Build apk
         run: flutter build apk
 
-      # - name: Firebase App Distribution
-      #   uses: wzieba/Firebase-Distribution-Github-Action@v1
-      #   with:
-      #     appId: ${{ secrets.FIREBASE_APP_ID_ANDROID }}
-      #     token: ${{ secrets.FIREBASE_CLI_TOKEN }}
-      #     groups: ${{ secrets.TESTERS_GROUPS }}
-      #     file: build/app/outputs/flutter-apk/app-release.apk
+      - name: Firebase App Distribution
+        uses: wzieba/Firebase-Distribution-Github-Action@v1
+        with:
+          appId: ${{ secrets.FIREBASE_APP_ID_ANDROID }}
+          token: ${{ secrets.FIREBASE_CLI_TOKEN }}
+          groups: ${{ secrets.TESTERS_GROUPS }}
+          file: build/app/outputs/flutter-apk/app-release.apk
